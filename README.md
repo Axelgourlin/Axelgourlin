@@ -15,11 +15,17 @@ Je suis un Développeur Web FullStack Js
 ## Compétences
 
 <br>
-[![Html html](https://img.shields.io/badge/-HTML-orange)](https://img.shields.io/badge/-HTML-orange)
 
-[![ReactJs reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![javascript](https://aleen42.github.io/badges/src/javascript.svg)](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+[![react](https://aleen42.github.io/badges/src/react.svg)](https://reactjs.org/)
+[![router](https://aleen42.github.io/badges/src/router.svg)](https://reacttraining.com/react-router/)
+[![node](https://aleen42.github.io/badges/src/node.svg)](https://nodejs.org/en/)
 
-[![NodeJs nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+[![github](https://aleen42.github.io/badges/src/github.svg)](https://github.com/)
+[![visual_studio_code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](https://code.visualstudio.com/)
+[![eslint](https://aleen42.github.io/badges/src/eslint.svg)](https://eslint.org/)
+[![slack](https://aleen42.github.io/badges/src/slack.svg)](https://slack.com/)
+[![codepen](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/)
 
 
 <br>

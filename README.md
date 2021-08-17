@@ -15,6 +15,7 @@ Je suis un Développeur Web FullStack Js
 ## Compétences
 
 <br>
+[![Html html](https://img.shields.io/badge/html-orange.svg?&style=for-the-badge&logo=html&logoColor=white)](https://img.shields.io/badge/html-orange.svg?&style=for-the-badge&logo=html&logoColor=white)
 [![ReactJs reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![NodeJs nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 

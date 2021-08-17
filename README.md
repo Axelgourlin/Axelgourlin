@@ -5,6 +5,9 @@ Je suis un Développeur Web FullStack Js
 <br>
 ## Connectez-vous avec moi
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" / >](https://www.linkedin.com/in/axel-gourlin-9bb2071b0/)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 
 <br> 

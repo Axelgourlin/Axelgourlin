@@ -1,6 +1,9 @@
 ### Hello World 👋 
-Je suis un Développeur Web FullStack Js
-- 🔭 J'ai travaillé sur plusieurs projets frontend et backend en utilisant React et Nodejs au cour de ma formation.
+
+Ancien Militaire au sein de la Marine Nationale,et passionné depuis toujours par le monde des Technologies informatique.
+Je suis actuellement en reconvention professionnelle en tant que développeur web au sein de la Wild Code School.
+
+- 🔭 J'ai travaillé sur plusieurs projets frontend et backend en utilisant principalemetn des technologies commes : Html, Css, Javascript, React, ReactRouteur, Nodejs et ExpressJs au cour de ma formation.
 
 <br>
 

@@ -24,7 +24,7 @@ Je suis un Développeur Web FullStack Js
 [![github](https://aleen42.github.io/badges/src/github.svg)](https://github.com/)
 [![visual_studio_code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](https://code.visualstudio.com/)
 [![eslint](https://aleen42.github.io/badges/src/eslint.svg)](https://eslint.org/)
-[![slack](https://aleen42.github.io/badges/src/slack.svg)](https://slack.com/)
+[![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
 [![codepen](https://aleen42.github.io/badges/src/codepen.svg)](https://codepen.io/)
 
 

@@ -1,9 +1,13 @@
 ### Hello World 👋 
 
-Ancien Militaire au sein de la Marine Nationale,et passionné depuis toujours par le monde des Technologies informatique.
+Ancien Militaire au sein de la Marine Nationale, et passionné depuis toujours par le monde des Technologies informatique.
 Je suis actuellement en reconvention professionnelle en tant que développeur web au sein de la Wild Code School.
 
-- 🔭 J'ai travaillé sur plusieurs projets frontend et backend en utilisant principalemetn des technologies commes : Html, Css, Javascript, React, ReactRouteur, Nodejs et ExpressJs au cour de ma formation.
+- 🔭 J'ai travaillé sur plusieurs projets frontend et backend en utilisant principalement des technologies comme : Html, Css, Javascript, React, ReactRouteur, Nodejs et ExpressJs au cours de ma formation.
+
+- Création d'interface dynamique en MVC avec ReacjJs
+- Création d'API avec ExpressJs et MySQL
+- Conception et création de Base de données avec Méthode MERISE et MySQL
 
 <br>
 

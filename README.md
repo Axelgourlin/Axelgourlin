@@ -2,8 +2,10 @@
 
 Bonjour et bienvenue sur mon GitHub :)
 
+
 Ancien Militaire au sein de la Marine Nationale.
 Passionné depuis toujours par le monde des Technologies informatiques. Je suis actuellement en reconversion professionnelle en tant que développeur web FullStackJs au sein de la Wild Code School.
+
 
 - 🔭 J'ai travaillé sur plusieurs projets frontend et backend en utilisant principalement les technologies : Html, Css, Javascript, React, ReactRouteur, Nodejs et ExpressJs, MySQL au cours de ma formation.
 
@@ -12,6 +14,8 @@ Passionné depuis toujours par le monde des Technologies informatiques. Je suis 
 - Création d'interface dynamique avec ReacjJs.
 - Création d'API avec ExpressJs et MySQL.
 - Conception et création de Base de données avec Méthode MERISE et MySQL.
+
+
 
 N'hésitez pas à aller faire un tour sur mes repos :)
 

@@ -6,7 +6,7 @@ Je suis actuellement en reconvention professionnelle en tant que développeur we
 - 🔭 J'ai travaillé sur plusieurs projets frontend et backend en utilisant principalement des technologies comme : Html, Css, Javascript, React, ReactRouteur, Nodejs et ExpressJs au cours de ma formation.
 
 - Création d'interface front end, statique et dynamique en HTML5 CSS3 et JavaScript Native.
-- Création d'interface dynamique en MVC avec ReacjJs
+- Création d'interface dynamique avec ReacjJs
 - Création d'API avec ExpressJs et MySQL
 - Conception et création de Base de données avec Méthode MERISE et MySQL
 

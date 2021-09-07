@@ -1,14 +1,15 @@
 ### Hello World 👋 
 
-Ancien Militaire au sein de la Marine Nationale, et passionné depuis toujours par le monde des Technologies informatique.
-Je suis actuellement en reconvention professionnelle en tant que développeur web au sein de la Wild Code School.
+Ancien Militaire au sein de la Marine Nationale.
+Passionné depuis toujours par le monde des Technologies informatiques. Je suis actuellement en reconversion professionnelle en tant que développeur web FullStackJs au sein de la Wild Code School.
 
-- 🔭 J'ai travaillé sur plusieurs projets frontend et backend en utilisant principalement des technologies comme : Html, Css, Javascript, React, ReactRouteur, Nodejs et ExpressJs au cours de ma formation.
+- 🔭 J'ai travaillé sur plusieurs projets frontend et backend en utilisant principalement les technologies : Html, Css, Javascript, React, ReactRouteur, Nodejs et ExpressJs, MySQL au cours de ma formation.
 
+- Utilisation des méthodes Agile avec SCRUM.
 - Création d'interface front end, statique et dynamique en HTML5 CSS3 et JavaScript Native.
-- Création d'interface dynamique avec ReacjJs
-- Création d'API avec ExpressJs et MySQL
-- Conception et création de Base de données avec Méthode MERISE et MySQL
+- Création d'interface dynamique avec ReacjJs.
+- Création d'API avec ExpressJs et MySQL.
+- Conception et création de Base de données avec Méthode MERISE et MySQL.
 
 <br>
 

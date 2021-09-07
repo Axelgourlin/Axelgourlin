@@ -1,6 +1,8 @@
 ### Hello World 👋 
 <br>
+
 Bonjour et bienvenue sur mon GitHub :)
+<br>
 <br>
 
 Ancien Militaire au sein de la Marine Nationale.
@@ -18,7 +20,7 @@ Passionné depuis toujours par le monde des Technologies informatiques. Je suis 
 
 
 N'hésitez pas à aller faire un tour sur mes repos :)
-
+<br>
 <br>
 
 ## Connectez-vous avec moi

@@ -23,10 +23,15 @@ Passionné depuis toujours par le monde des Technologies informatiques. Je suis 
 N'hésitez pas à aller faire un tour sur mes repos :)
 <br>
 
-https://axelgourlin.github.io/portfollio/
-<br>
-https://axelgourlin.github.io/restOdyssey/
-<br>
+https://axelgourlin.github.io/portfollio/                  |            https://github.com/Axelgourlin/remote-fr-june21-wildify
+<br>                                                       |
+https://github.com/Axelgourlin/portfollio                  |            https://github.com/Axelgourlin/remote-fr-june21-wildify-back
+<br>                                                       |
+https://axelgourlin.github.io/restOdyssey/                 |            https://github.com/Axelgourlin/r5d5
+<br>                                                       |
+https://github.com/Axelgourlin/restOdyssey                 |            https://github.com/Axelgourlin/myBlog
+<br>                                                       |
+
 
 
 <br>

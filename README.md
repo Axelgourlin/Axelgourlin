@@ -14,19 +14,13 @@ N'hésitez pas à aller faire un tour sur mes repos :)
 <br>
 
 ## Mes projets:
-
 <br>
 https://axelgourlin.github.io/portfollio/
-
-<br>                                                       
-                                                       
+<br>                                                                                                         
 https://donald-trump-1942zwx47-axelgourlin.vercel.app/
 <br>
-
 https://simmer.io/@DanForstesque/chicken-nuggets
-
-
-
+<br>
 <br>
 
 ## Connectez-vous avec moi
@@ -34,7 +28,6 @@ https://simmer.io/@DanForstesque/chicken-nuggets
 <br>
 
 [![Linkedin https://www.linkedin.com/in/axel-gourlin-9bb2071b0/](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-gourlin-9bb2071b0/)
-
 <br> 
 
 ## Compétences

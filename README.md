@@ -13,13 +13,15 @@ Passionné depuis toujours par le monde des Technologies informatiques et après
 N'hésitez pas à aller faire un tour sur mes repos :)
 <br>
 
-https://axelgourlin.github.io/portfollio/   |    https://github.com/Axelgourlin/portfollio
+Mes projets:
+<br>
+https://axelgourlin.github.io/portfollio/
 <br>                                                       
                                                        
-https://donald-trump-1942zwx47-axelgourlin.vercel.app/ |  https://github.com/Axelgourlin/DonaldTrumpAPI 
+https://donald-trump-1942zwx47-axelgourlin.vercel.app/
 <br>
 
-https://simmer.io/@DanForstesque/chicken-nuggets  |  https://github.com/Axelgourlin/chickennuggets
+https://simmer.io/@DanForstesque/chicken-nuggets
 
 
 
